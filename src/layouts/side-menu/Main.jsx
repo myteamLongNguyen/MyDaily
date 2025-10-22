@@ -40,12 +40,9 @@ function Main() {
           >
             <img
               alt="Midone Tailwind HTML Admin Template"
-              className="w-6"
+              className="w-96"
               src={logoUrl}
             />
-            <span className="hidden xl:block text-white text-lg ml-3">
-              Rubick
-            </span>
           </Link>
           <div className="side-nav__devider my-6"></div>
           <ul>
